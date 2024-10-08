@@ -2,10 +2,14 @@
     width: 50px;
 }
 
-.ms_search-bar {
+/* .ms_button-list {
     display: none;
-}
+} */
 
 .debug {
     border: 2px solid black;
 }
+
+/* .collapse.navbar-collapse > * {
+    display: none;
+} */
