@@ -5,3 +5,7 @@
 .ms_search-bar {
     display: none;
 }
+
+.debug {
+    border: 2px solid black;
+}
